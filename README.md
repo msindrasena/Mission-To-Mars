@@ -1,3 +1,3 @@
 ## Portfolio Snapshot
 
-![](Portfolio Pic.png)
+![](Portfoliopic.png)
